@@ -27,7 +27,7 @@ UE5初心者によるC++とBlueprintを組み合わせた14日間の開発記録
 - **MyGameTypes.h**: プロジェクト全体で使用する構造体や列挙型の定義。
 - **MyTerrainPanel**: 無限生成される地形のタイル管理ロジック。
 
-### 各作業のZenn記事(抜粋)
+### 各実装のZenn記事(抜粋)
 - [Day1-4:基盤システムとC++設計](https://zenn.dev/arianankururu/articles/6ccbc1e251c382)
 - [Day5:レベルアップとダメージ表示](https://zenn.dev/arianankururu/articles/71d9801c37b91f)
 - [Day6:オブジェクトプーリング](https://zenn.dev/arianankururu/articles/72ef89668130b8)
